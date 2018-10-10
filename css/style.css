@@ -4,3 +4,21 @@
   color: white;
   text-align: center;
 }
+
+.image-demo{
+  font-size: 70px;
+  padding: 10px;
+  color: white;
+
+  border: 10px red solid;
+
+  background-image: url("https://picsum.photos/1200");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+
+  height: 300px;
+  text-align: center;
+
+  padding-top: 150px;
+
+}
